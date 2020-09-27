@@ -1,4 +1,4 @@
-# <h1align = "center" color: blue;>Awesome Portfolio Websites</h1>
+# Awesome Portfolio Websites
 
 <h1 align ="centre">What makes Couch perfect for web designers?</h1>
 Got stucked??
